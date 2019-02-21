@@ -1,0 +1,1 @@
+{"version":3,"sources":["../static/js/index.js"],"names":["console","log"],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAAAA,OAAO,CAACC,GAAR,CAAY,aAAZ","file":"js.8ff06ae0.map","sourceRoot":"../src/templates","sourcesContent":["console.log('js is ready');"]}
