@@ -1,0 +1,27 @@
+{
+  "name": "mysandbox",
+  "version": "1.0.0",
+  "description": "My sandbox",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qdanneville/mysandbox.git"
+  },
+  "keywords": [
+    "Sandbox"
+  ],
+  "author": "Quentin Danneville",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qdanneville/mysandbox/issues"
+  },
+  "homepage": "https://github.com/qdanneville/mysandbox#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "webpack": "^4.29.5",
+    "webpack-cli": "^3.2.3"
+  }
+}
